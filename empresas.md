@@ -34,6 +34,7 @@
 |  ![logo](https://www.sympla.com.br/images/logo-sympla-color.svg) | [Sympla](https://sympla.com.br) | Belo Horizonte - MG   | Internet  |   |  https://jobs.kenoby.com/sympla |
 |  ![logo](https://static.maxmilhas.com.br/img/logo-mm-grey.svg) | [MaxMilhas](https://www.maxmilhas.com.br/) | Belo Horizonte - MG   | Internet  |   |  https://maxmilhas.gupy.io/ |
 |  ![logo](https://www.hotmart.com/hotmart-index/javax.faces.resource/images/hotmart-logo-footer.svg.xhtml) | [Hotmart](https://www.hotmart.com/pt) | Belo Horizonte - MG   | Internet  |   |  https://www.hotmart.com/jobs/pt/ |
+|  ![logo] | [J&T Express](https://www.jtexpress.com.br/) | São Paulo - SP   | Logística  |   |  https://jtexpressbr.gupy.io/ |
 
 ## Sul 
 | Logo  | Empresa  | Cidade  |  Setor | Contato | Vagas |
